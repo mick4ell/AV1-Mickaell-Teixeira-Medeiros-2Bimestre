@@ -3,6 +3,29 @@ header{
     background-color: black;
     color: white;
 }
-nav{
-    color: grar;
+nav  {
+    background-color: black(0, 0, 0);
+    text-align: center;
+}
+nav a{
+    background-color: rgb(255, 255, 255);
+}
+.meio{
+    text-align: center;
+}
+section{
+    margin-bottom: 50px;
+    padding: 20px ;
+    border: 20px ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#sobre{
+    background-color: aqua;
+}
+#habilidades{
+    background-color: blueviolet;
+}
+#contato{
+    background-color: chocolate;
 }
