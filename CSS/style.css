@@ -1,44 +1,62 @@
-header{
-    text-align: center;
-    background-color: rgb(29, 27, 27);
-    color: white;
-    padding: 20px ;
-    border: 20px ;
-    width: 100%;
+header {
+  text-align: center;
+  background-color: rgb(29, 27, 27);
+  color: white;
+  padding: 20px;
 }
-nav a:hover {
+body {
+  background-color: #e5e5e5;
+}
+#asylum {
+  background-color: #777777;
+color: rgb(211, 210, 210);
+}
+.as{
+    background-color: #1F4D36;
+}
+#city {
+  background-color: #3a3a3a;
+}
+.ci{
+    background-color: #C96A2B;
+}
+#knight {
+    background-color: #5A5A5A;
+}
+.ki{
+    background-color: #1C2A48;
+}
+nav a:hover{
   text-decoration: underline;
-  color: aqua;
 }
-nav  {
-    background-color: rgb(90, 88, 88);
-    text-align: center;
-    padding: 20px ;
-    border: 20px ;
-    height: 1px;
+nav {
+  background-color: rgb(90, 88, 88);
+  text-align: center;
+  padding: 20px;
+  border: 20px;
+  height: 1px;
 }
-nav a{
-    color: white;
-    margin-left: 100px;
-    margin-right: 100px;
+nav a {
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
 }
-.meio{
-    text-align: center;
+.meio {
+  text-align: center;
 }
-section{
-    margin-bottom: 50px;
-    padding: 20px ;
-    border: 20px ;
-    margin-left: 100px;
-    margin-right: 100px;
-    border-top-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-    background-color: aquamarine;
+section {
+  margin-bottom: 50px;
+  padding: 20px;
+  border: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background-color: #4da6ff;
 }
 footer {
   background-color: #222;
   color: white;
-  text-align:end;   
-  padding: 20px ;
-  width: 100%;
+  text-align: end;
+  padding: 20px;
 }
