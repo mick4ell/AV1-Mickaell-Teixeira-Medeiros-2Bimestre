@@ -8,8 +8,7 @@ body {
   background-color: #e5e5e5;
 }
 #asylum {
-  background-color: #777777;
-color: rgb(211, 210, 210);
+  background-color: #2B2B2B;
 }
 .as{
     background-color: #1F4D36;
@@ -24,7 +23,7 @@ color: rgb(211, 210, 210);
     background-color: #5A5A5A;
 }
 .ki{
-    background-color: #1C2A48;
+    background-color: #8B1E1E;
 }
 nav a:hover{
   text-decoration: underline;
