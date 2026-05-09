@@ -5,13 +5,13 @@ header {
   padding: 20px;
 }
 body {
-  background-color: #e5e5e5;
-}
-#asylum {
   background-color: #2B2B2B;
 }
-.as{
-    background-color: #1F4D36;
+#home{
+  background-color: #3A3A3A;
+}
+.ho{
+  background-color: #F7C948;
 }
 #city {
   background-color: #3a3a3a;
@@ -27,6 +27,7 @@ body {
 }
 nav a:hover{
   text-decoration: underline;
+   color: #F7C948;
 }
 nav {
   background-color: rgb(90, 88, 88);
@@ -51,7 +52,7 @@ section {
   margin-right: 100px;
   border-top-left-radius: 50px;
   border-bottom-right-radius: 50px;
-  background-color: #4da6ff;
+  background-color: #1F4D36;
 }
 footer {
   background-color: #222;
