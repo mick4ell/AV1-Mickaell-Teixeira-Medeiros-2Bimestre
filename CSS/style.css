@@ -25,6 +25,9 @@ body {
 .ki{
     background-color: #8B1E1E;
 }
+#cad{
+  background-color: white;
+}
 nav a:hover{
   text-decoration: underline;
    color: #F7C948;
