@@ -60,3 +60,9 @@ footer {
   text-align: end;
   padding: 20px;
 }
+.im{
+  text-align: center;
+  width: 75%;
+  height: 200px;
+  margin: 10px;
+}
