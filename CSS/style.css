@@ -13,6 +13,9 @@ body {
 .ho{
   background-color: #F7C948;
 }
+.ark{
+  background-color: #2e915f;
+}
 #city {
   background-color: #3a3a3a;
 }
@@ -23,10 +26,47 @@ body {
     background-color: #5A5A5A;
 }
 .ki{
-    background-color: #8B1E1E;
+    background-color: #a02323;
 }
 #cad{
   background-color: white;
+}
+
+#for{
+background-color: #F3F4F6;
+text-align: center;
+}
+#tabela{
+background-color:  #5DADE2;
+
+}
+.tab{
+ background-color: #ECF0F1;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #4A90E2;
+    color: white;
+}
+
+td, th {
+    border: 1px solid #c9c7c7;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #c4bfbf;
+}
+
+tr:nth-child(odd) {
+    background-color: #ccc4c4;
 }
 nav a:hover{
   text-decoration: underline;
@@ -41,8 +81,8 @@ nav {
 }
 nav a {
   color: white;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .meio {
   text-align: center;
@@ -62,10 +102,4 @@ footer {
   color: white;
   text-align: end;
   padding: 20px;
-}
-.im{
-  text-align: center;
-  width: 75%;
-  height: 200px;
-  margin: 10px;
 }
